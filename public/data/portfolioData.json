@@ -51,7 +51,7 @@
       {
         "title": "Keyboard Hero",
         "description": "Being an embedded systems project, C was used to program an ATmega1284 to run a game called Keyboard Hero based off of the popular game Guitar Hero.\nHardware such as shift registers, a LCD Screen, and a LED Matrix were used to implement the game.",
-        "img": "KeyboardHero.jpg",
+        "img": "KeyboardHero.PNG",
         "link": "https://github.com/hsimjee/Keyboard-Hero"
       },
       {
